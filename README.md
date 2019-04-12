@@ -1,5 +1,8 @@
 # nx
-The original is private   
+  
+<h4> The original is private </h4>
+
+<h2> A platform to buy & sell products, find local events, jobs, housing and more </h2>
 
 
 
